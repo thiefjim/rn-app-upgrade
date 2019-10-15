@@ -5,7 +5,7 @@
   "currentVersion": "1.0.1-stage.3",
   "iosBuildNumber": "3",
   "BuildNumber": "3",
-  "mandatory": false,
+  "mandatory": true,
   "updateDialog": {
     "appendReleaseDescription": true,
     "descriptionPrefix": "",
