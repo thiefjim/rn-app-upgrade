@@ -1,7 +1,7 @@
 {
   "bundleIdentifier": "com.deltaww.dkahr",
-  "iosMainifestUrl": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/thiefjim/rn-app-upgrade/master/delta-academy/stage/manifest.plist",
-  "apkUrl": "https://raw.githubusercontent.com/thiefjim/rn-app-upgrade/master/delta-academy/stage/app-release.apk",
+  "iosMainifestUrl": "itms-services://?action=download-manifest&url=https://horizon.deltaww.com/delta-academy/stage/manifest.plist",
+  "apkUrl": "https://horizon.deltaww.com/delta-academy/stage/app-release.apk",
   "currentVersion": "1.0.0-stage.4",
   "iosBuildNumber": "3",
   "BuildNumber": "3",
